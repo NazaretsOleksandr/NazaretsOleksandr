@@ -6,5 +6,13 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=Flutter&logoColor=47C5FB)
 ![Game](https://img.shields.io/badge/-Game-001E42?style=for-the-badge&logo=Game&logoColor=6E7F80)
 ![C++](https://img.shields.io/badge/-C++-002542?style=for-the-badge&logo=C%2b%2b&logoColor=45A367)
+![Git](https://img.shields.io/badge/-Git-002542?style=for-the-badge&logo=Git&logoColor=45A367)
+![HTML5](https://img.shields.io/badge/-HTML5-002542?style=for-the-badge&logo=HTML5&logoColor=45A367)
+![CSS](https://img.shields.io/badge/-CSS-002542?style=for-the-badge&logo=CSS&logoColor=45A367)
+![SQL](https://img.shields.io/badge/-SQL-002542?style=for-the-badge&logo=SQL&logoColor=45A367)
+![WebTesting](https://img.shields.io/badge/-WebTesting-002542?style=for-the-badge&logo=WebTesting&logoColor=45A367)
+![Postman](https://img.shields.io/badge/-Postman-002542?style=for-the-badge&logo=Postman&logoColor=45A367)
+![Python](https://img.shields.io/badge/-Python-002542?style=for-the-badge&logo=Python&logoColor=45A367)
 
-Follow Me
+### Follow Me
+[ ![Telegram](https://img.shields.io/badge/-Telegram-002542?style=for-the-badge&logo=Telegram&logoColor=45A367) ](https://t.me/Nazarets_Oleksandr)
