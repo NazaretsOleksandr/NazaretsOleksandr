@@ -15,5 +15,6 @@
 
 ### Follow Me
 [ ![Telegram](https://img.shields.io/badge/-Telegram-002542?style=for-the-badge&logo=Telegram&logoColor=45A367) ](https://t.me/Nazarets_Oleksandr)
-[ ![Instagam](https://img.shields.io/badge/-Instagram-002542?style=for-the-badge&logo=Instagram&logoColor=45A367) ]([https://t.me/Nazarets_Oleksandr](https://instagram.com/_nazarets_oleksandr_?igshid=ZDdkNTZiNTM=))
+[ ![Instagam](https://img.shields.io/badge/-Instagram-002542?style=for-the-badge&logo=Instagram&logoColor=45A367) ](https://instagram.com/_nazarets_oleksandr_?igshid=ZDdkNTZiNTM=)
 [ ![Linkedin](https://img.shields.io/badge/-Linkedin-002542?style=for-the-badge&logo=Linkedin&logoColor=45A367) ](https://t.me/Nazarets_Oleksandr)
+
