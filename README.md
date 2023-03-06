@@ -3,8 +3,7 @@
 ## I'm QA Enginer
 
 ### Languages and Tools
-![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=Flutter&logoColor=47C5FB)
-![Game](https://img.shields.io/badge/-Game-001E42?style=for-the-badge&logo=Game&logoColor=6E7F80)
+![Testing](https://img.shields.io/badge/-Testing-001E42?style=for-the-badge&logo=Testing&logoColor=6E7F80)
 ![C++](https://img.shields.io/badge/-C++-002542?style=for-the-badge&logo=C%2b%2b&logoColor=45A367)
 ![Git](https://img.shields.io/badge/-Git-002542?style=for-the-badge&logo=Git&logoColor=45A367)
 ![HTML5](https://img.shields.io/badge/-HTML5-002542?style=for-the-badge&logo=HTML5&logoColor=45A367)
@@ -16,3 +15,5 @@
 
 ### Follow Me
 [ ![Telegram](https://img.shields.io/badge/-Telegram-002542?style=for-the-badge&logo=Telegram&logoColor=45A367) ](https://t.me/Nazarets_Oleksandr)
+[ ![Instagam](https://img.shields.io/badge/-Instagram-002542?style=for-the-badge&logo=Instagram&logoColor=45A367) ]([https://t.me/Nazarets_Oleksandr](https://instagram.com/_nazarets_oleksandr_?igshid=ZDdkNTZiNTM=))
+[ ![Linkedin](https://img.shields.io/badge/-Linkedin-002542?style=for-the-badge&logo=Linkedin&logoColor=45A367) ](https://t.me/Nazarets_Oleksandr)
