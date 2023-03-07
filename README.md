@@ -12,14 +12,14 @@
 - Web applicaton
 
 ## Languages and Tools
-![WebTesting](https://img.shields.io/badge/-WebTesting-002542?style=for-the-badge&logo=WebTesting&logoColor=45A367)
-![GameTesting](https://img.shields.io/badge/-GameTesting-002542?style=for-the-badge&logo=GameTesting&logoColor=45A367)
-![MobileTesting](https://img.shields.io/badge/-MobileTesting-002542?style=for-the-badge&logo=MobileTesting&logoColor=45A367)
-![Asana](https://img.shields.io/badge/-Asana-002542?style=for-the-badge&logo=Asana&logoColor=45A367)
-![SDLC](https://img.shields.io/badge/-SDLC-002542?style=for-the-badge&logo=SDLC&logoColor=45A367)
-![Jira](https://img.shields.io/badge/-Jira-002542?style=for-the-badge&logo=Jira&logoColor=45A367)
-![Postman](https://img.shields.io/badge/-Postman-002542?style=for-the-badge&logo=Postman&logoColor=45A367)
-![Swagger](https://img.shields.io/badge/-Swagger-002542?style=for-the-badge&logo=Swagger&logoColor=45A367)
+![WebTesting](https://img.shields.io/badge/-WebTesting-556AC1?style=for-the-badge&logo=WebTesting&logoColor=556AC1)
+![GameTesting](https://img.shields.io/badge/-GameTesting-FAB000?style=for-the-badge&logo=GameTesting&logoColor=FAB000)
+![MobileTesting](https://img.shields.io/badge/-MobileTesting-4592C1?style=for-the-badge&logo=MobileTesting&logoColor=4592C1)
+![Asana](https://img.shields.io/badge/-Asana-363639?style=for-the-badge&logo=Asana&logoColor=F06A6A)
+![SDLC](https://img.shields.io/badge/-SDLC-A4BEF1?style=for-the-badge&logo=SDLC&logoColor=A4BEF1)
+![Jira](https://img.shields.io/badge/-Jira-629FF6?style=for-the-badge&logo=Jira&logoColor=166BE0)
+![Postman](https://img.shields.io/badge/-Postman-D7D0AD?style=for-the-badge&logo=Postman&logoColor=FB7C29)
+![Swagger](https://img.shields.io/badge/-Swagger-ADC5C2?style=for-the-badge&logo=Swagger&logoColor=8BB600)
 ![JSON](https://img.shields.io/badge/-JSON-002542?style=for-the-badge&logo=JSON&logoColor=45A367)
 ![Fiddler](https://img.shields.io/badge/-Fiddler-002542?style=for-the-badge&logo=Fiddler&logoColor=45A367)
 ![MySQL](https://img.shields.io/badge/-MySQL-002542?style=for-the-badge&logo=MySQL&logoColor=45A367)
