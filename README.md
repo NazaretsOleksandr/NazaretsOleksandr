@@ -5,7 +5,7 @@
 ## Portfolio
 
 #### Bug reports  
-- PC application
+- [PC application](https://github.com/Enginer2/Texas_Massacre_Shooter_Game/tree/main/Bug_Reports) 
 - Mobile application
 - Web applicaton
 
