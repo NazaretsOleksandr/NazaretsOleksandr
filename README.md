@@ -5,9 +5,9 @@
 ## Portfolio
 
 #### Bug reports  
-- [PC application](https://github.com/Enginer2/Texas_Massacre_Shooter_Game/tree/main/Bug_Reports) 
+- PC application - [Texas Massacre](https://github.com/Enginer2/Texas_Massacre_Shooter_Game/tree/main/Bug_Reports) [Chop chop](https://github.com/Enginer2/Texas_Massacre_Shooter_Game/tree/main/Bug_Reports)
 - Mobile application
-- Web applicaton
+
 
 ## Languages and Tools
 ![WebTesting](https://img.shields.io/badge/-WebTesting-556AC1?style=for-the-badge&logo=WebTesting&logoColor=556AC1)
