@@ -6,7 +6,7 @@
 
 #### Bug reports  
 - PC application - [Texas Massacre](https://github.com/Enginer2/Texas_Massacre_Shooter_Game/tree/main/Bug_Reports), [Chop chop](https://github.com/NazaretsOleksandr/Chop_Chop_Game/tree/main/Bug_Reports)
-- Mobile application - [Little Shooter](https://github.com/NazaretsOleksandr/Little_Shooter_Game/tree/main/Bug_Reports), [World Race](https://github.com/NazaretsOleksandr/Chop_Chop_Game/tree/main/Bug_Reports)
+- Mobile application - [Little Shooter](https://github.com/NazaretsOleksandr/Little_Shooter_Game/tree/main/Bug_Reports), [World Race](https://github.com/NazaretsOleksandr/World_Race_Game/tree/main/Bug_Reports)
 
 
 ## Languages and Tools
