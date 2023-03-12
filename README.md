@@ -4,8 +4,6 @@
 
 ## Portfolio
 
-#### Check-list
-- 
 #### Bug reports  
 - PC application
 - Mobile application
