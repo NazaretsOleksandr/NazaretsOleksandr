@@ -1,10 +1,12 @@
 ![Header](https://github.com/Enginer2/Enginer2/blob/main/assets/%D0%A2%D0%B5%D1%81%D1%82%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F.jpg) 
 
 ## About me
+Меня зовут Олександр для друзей просто Саня.
+Порой мне кажется что QA это та профессия где я себя нашел. Все время натыкался на баги в реальной жизни но называю их багами только начиная с 2021. Это год в котором меня приютила it компания BeesCute.
 
-## Portfolio
+Я прошел все этапы разработки продукта от А до Я. Тестировал Веб приложения, ПК и мобильные игры.
 
-#### Bug reports  
+#### My portfolio - bug reports  
 - PC application - [Texas Massacre](https://github.com/Enginer2/Texas_Massacre_Shooter_Game/tree/main/Bug_Reports), [Chop chop](https://github.com/NazaretsOleksandr/Chop_Chop_Game/tree/main/Bug_Reports)
 - Mobile application - [Little Shooter](https://github.com/NazaretsOleksandr/Little_Shooter_Game/tree/main/Bug_Reports), [World Race](https://github.com/NazaretsOleksandr/World_Race_Game/tree/main/Bug_Reports)
 
